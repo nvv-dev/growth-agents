@@ -1,0 +1,13 @@
+{
+  "name": "growth-agents",
+  "version": "0.1.0",
+  "description": "A small marketing team as Claude Code subagents: copywriter, content strategist, growth marketer and legal reviewer, each with explicit tools and limits. None publishes, sends, spends money or changes prices. Pairs with the growth-workflow skills.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/growth-agents",
+  "repository": "https://github.com/nvv-dev/growth-agents",
+  "license": "MIT",
+  "keywords": ["agents", "subagents", "marketing", "copywriting", "content", "growth", "legal"]
+}
